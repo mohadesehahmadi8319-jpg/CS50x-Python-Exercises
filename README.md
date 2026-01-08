@@ -19,7 +19,17 @@ This repository contains my Python solutions to the problem sets from the CS50x 
 - einstein.py — Calculates energy using E = mc² | محاسبه‌ی انرژی با فرمول E = mc²  
 - playback.py — Replaces spaces with ... | جایگزینی فاصله‌ها با ...  
 - faces.py — Converts emoticons to emojis | تبدیل شکلک‌ها به ایموجی  
-- tip.py — Calculates tip based on service quality | محاسبه‌ی انعام بر اساس کیفیت خدمات  
+- tip.py — Calculates tip based on service quality | محاسبه‌ی انعام بر اساس کیفیت خدمات
+- extension.py_Detect media type from filename |برنامه اسم فایل رو از کاربر میگیره و نوع media typeان را در خروجی چاپ میکند
+- interpreter.py_Simple Calculator |ماشین حساب ساده
+- meal.py_Meal Time Checker |این برنامه‌ی ساده‌ی پایتون بررسی می‌کنه که زمان وارد شده مربوط به صبحانه، ناهار یا شام هست یا نه.
+
+صبحانه: بین ساعت 7:00 تا 8:00
+
+ناهار: بین ساعت 12:00 تا 13:00
+
+شام: بین ساعت 18:00 تا 19:00
+
 
 *(More exercises will be added as I progress through the course.)*  
 *(تمرین‌های بیشتر با پیشرفت من در دوره اضافه خواهند شد.)*
