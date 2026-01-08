@@ -22,13 +22,13 @@ This repository contains my Python solutions to the problem sets from the CS50x 
 - tip.py — Calculates tip based on service quality | محاسبه‌ی انعام بر اساس کیفیت خدمات
 - extension.py_Detect media type from filename |برنامه اسم فایل رو از کاربر میگیره و نوع media typeان را در خروجی چاپ میکند
 - interpreter.py_Simple Calculator |ماشین حساب ساده
-- meal.py_Meal Time Checker |این برنامه‌ی ساده‌ی پایتون بررسی می‌کنه که زمان وارد شده مربوط به صبحانه، ناهار یا شام هست یا نه.
+- meal.py_Meal Time Checker |این برنامه‌ی ساده‌ی پایتون بررسی می‌کنه که زمان وارد شده مربوط به صبحانه، ناهار یا شام هست یا نه
+- coke.py_Coke Vending Machine|این برنامه یک شبیه‌ساز ساده برای دستگاه فروش نوشیدنی کوکاکولا است که با زبان پایتون نوشته شده. قیمت هر نوشیدنی ۵۰ سنت است و دستگاه فقط سکه‌های ۵، ۱۰ و ۲۵ سنت را قبول می‌کند
+- camel.py_ CamelCase to SnakeCase Converter|این پروژه یک اسکریپت ساده‌ی پایتون است که رشته‌های camelCase را به قالب snake_case تبدیل می‌کند
 
-صبحانه: بین ساعت 7:00 تا 8:00
 
-ناهار: بین ساعت 12:00 تا 13:00
 
-شام: بین ساعت 18:00 تا 19:00
+
 
 
 *(More exercises will be added as I progress through the course.)*  
