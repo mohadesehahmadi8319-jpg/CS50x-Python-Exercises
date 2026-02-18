@@ -25,7 +25,19 @@ This repository contains my Python solutions to the problem sets from the CS50x 
 - meal.py_Meal Time Checker |این برنامه‌ی ساده‌ی پایتون بررسی می‌کنه که زمان وارد شده مربوط به صبحانه، ناهار یا شام هست یا نه
 - coke.py_Coke Vending Machine|این برنامه یک شبیه‌ساز ساده برای دستگاه فروش نوشیدنی کوکاکولا است که با زبان پایتون نوشته شده. قیمت هر نوشیدنی ۵۰ سنت است و دستگاه فقط سکه‌های ۵، ۱۰ و ۲۵ سنت را قبول می‌کند
 - camel.py_ CamelCase to SnakeCase Converter|این پروژه یک اسکریپت ساده‌ی پایتون است که رشته‌های camelCase را به قالب snake_case تبدیل می‌کند
-
+-twttr.py_Remove Vowels from input text|حذف حروف صدادار از متن ورودی
+-plates.py_Validates vanity license plates|اعتبار سنجی پلاک خودرو
+-nutrition.py_Return calories per fruit|محاسبه کالری میوه ها
+-fuel.py_Converts fraction to fuel gauge percentage | تبدیل کسر به درصد باک بنزین 
+-taqueria.py_Felipe's Taqueria order system | سیستم سفارشگیری از رستوران مکزیکی
+-grocery.py_Counts grocery items from user input | شمارش آیتم‌های خرید کاربر
+-outdated.py_Converts dates to ISO format | تبدیل تاریخ به فرمت استاندارد
+-adieu.py_Farewell with names using Oxford comma | خداحافظی با اسم‌ها با ویرگول آکسفورد
+-bitcoin.py_Bitcoin price checker via API | بررسی قیمت بیت‌کوین با استفاده از API
+-emojize.py_Converts text codes to emojis | تبدیل کدهای متنی به ایموجی
+-figlet.py_Converts text to ASCII art fonts | تبدیل متن به فونت‌های هنری FIGlet
+-game.py_Number guessing game | بازی حدس عدد
+-professor.py_Little Professor math game | بازی ریاضی Little Professor
 
 
 
